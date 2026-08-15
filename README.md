@@ -24,7 +24,7 @@ Responder, a partir de uma base de vendas com mais de 700 registros, perguntas c
 
 ## Prévia do dashboard
 
-![Dashboard](dashboard_final.jpg)
+![Dashboard](dashboard_final2.jpg)
 
 ## Arquivos
 
