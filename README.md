@@ -22,9 +22,7 @@ Responder, a partir de uma base de vendas com mais de 700 registros, perguntas c
 2. **Análise exploratória** — tabela dinâmica no Excel para responder as 5 perguntas de negócio antes de partir para a visualização.
 3. **Dashboard** — tradução das respostas em visualizações no Power BI, com KPIs de receita e lucro, distribuição por categoria, canal e região, e evolução anual das vendas.
 
-## Prévia do dashboard
-
-![Dashboard](dashboard_final.jpg)
+)
 
 ## Arquivos
 
