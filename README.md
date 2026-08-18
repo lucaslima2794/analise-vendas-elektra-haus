@@ -1,4 +1,4 @@
-# Análise de Vendas — Elektra Haus (Projeto Treino)
+# Análise de Vendas — (Projeto Treino)
 
 Projeto treino de análise de dados ponta a ponta: extração e tratamento de uma base de vendas, análise exploratória com tabela dinâmica no Excel, e construção de um dashboard interativo no Power BI para responder perguntas de negócio.
 
