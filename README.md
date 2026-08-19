@@ -26,8 +26,7 @@ Responder, a partir de uma base de vendas com mais de 700 registros, perguntas c
 ## Arquivos
 
 - `base_de_dados.xlsx` — planilha com a base bruta e a análise descritiva
-- `dashboard_final.jpg` — imagem do dashboard final no Power BI
-- `dashboard.pbix` — arquivo do Power BI
+- `Dashboard Final.pbix` — arquivo do Power BI
 
 ## Principais insights
 
